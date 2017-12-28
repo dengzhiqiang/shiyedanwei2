@@ -45,6 +45,13 @@ z：真题
     捷速OCR文字识别软件
     百度网络图片识别：http://ai.baidu.com/tech/ocr/webimage
 
+### PDF拆分工具
+    https://jingyan.baidu.com/article/ae97a6468f4983bbfd461dff.html
+    Adobe Acrobat X pro
+    Foxit Phantom V2
+    AP PDF Split-Merge V3
+    Simpo PDF Merge & Split V2    
+
 ### 【刷题】重庆《综合》
     这里面的免费题目已经刷完，最后的一个是 （刷题-大足云阳专项-政治）
 
