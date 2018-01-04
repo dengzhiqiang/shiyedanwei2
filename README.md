@@ -35,8 +35,11 @@ z：真题
     1-2016.2.27铜梁/1.html 19题
 
     点睛真题法律-11页
+    
+    
 
-
+### 教师招聘
+    教育心理学讲义：24  第三章
 
 华图专项：http://cq.huatu.com/zt/syztxz/ 好多题目这里
 中公微信: 每日一练，历年真题
@@ -52,6 +55,10 @@ z：真题
     Foxit Phantom V2
     AP PDF Split-Merge V3
     Simpo PDF Merge & Split V2    
+
+### PDF 解密，移除保护
+    https://smallpdf.com/cn/unlock-pdf
+
 
 ### 【刷题】重庆《综合》
     这里面的免费题目已经刷完，最后的一个是 （刷题-大足云阳专项-政治）
