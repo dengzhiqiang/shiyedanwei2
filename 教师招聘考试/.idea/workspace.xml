@@ -10,34 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1.教育心理学-学生心理-第八章 问题解决与创造力-第一节 问题解决 .md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第八章 问题解决与创造力-第一节 问题解决 .md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="279">
-                <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1.教育心理学-学生心理-第八章 问题解决与创造力-第二节 创造力及其培养 .md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第八章 问题解决与创造力-第二节 创造力及其培养 .md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="-1345">
-                <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -47,6 +20,7 @@
       <find>刺激</find>
       <find>认知一结构</find>
       <find>加里培林</find>
+      <find>前习俗</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -68,7 +42,45 @@
         <option value="$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第七章 技能的学习-第一节 技能的一般概述 .md" />
         <option value="$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第七章 技能的学习-第二节 心智技能的学习 .md" />
         <option value="$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第七章 技能的学习-第三节 操作技能的学习 .md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/教学心理/教学心理-第十章 教学设计-第一节 设置教学目标.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/教学心理/教学心理-第十章 教学设计-第二节 组织教学过程.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/教学心理/教学心理-第十章 教学设计-第三节 选择教学策略.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/教学心理/教学心理-第十一章 课堂管理-第一节 课堂管理概述.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/教学心理/教学心理-第十一章 课堂管理-第二节 课堂群体的管理.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/教学心理/教学心理-第十一章 课堂管理-第三节 课堂纪律的管理.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/教师心理/教师心理-第十二章 教师心理-第一节 教师的心理特征与职业成就的关系.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/教师心理/教师心理-第十二章 教师心理-第二节 专家型教师与新教师的比较.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/教师心理/教师心理-第十二章 教师心理-第三节 教师的成长与发展.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/教师心理/教师心理-第十四章 心理健康教育-第一节 心理健康概述.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/教师心理/教师心理-第十四章 心理健康教育-第二节 心理辅导.md" />
         <option value="$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第八章 问题解决与创造力-第一节 问题解决 .md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第八章 问题解决与创造力-第二节 创造力及其培养 .md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第九章 态度与品德的形成-第一节 态度与品德的实质及其关系 .md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第九章 态度与品德的形成-第二节 学生品德发展的基本特征 .md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第九章 态度与品德的形成-第三节 态度与品德学习的一般过程与条件 .md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/绪 论.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/认知发展/认知发展-第一章 感知觉-第一节 感觉.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/认知发展/认知发展-第一章 感知觉-第二节 知觉.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/认知发展/认知发展-第一章 感知觉-第三节 感知觉在教学中的应用.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/认知发展/认知发展-第二章 记忆-第一节 记忆的种类.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/认知发展/认知发展-第二章 记忆-第二节 记忆的过程.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/认知发展/认知发展-第二章 记忆-第三节 记忆规律在教学中的应用.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/认知发展/认知发展-第三章 表象、想象-第一节 想象的基本概念.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/认知发展/认知发展-第四章 思维-第一节 思维概述.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/认知发展/认知发展-第五章 注意-第一节 注意的基本概念.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/认知发展/认知发展-第五章 注意-第二节 注意的种类与规律.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/认知发展/认知发展-第五章 注意-第三节 注意的品质.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/认知发展/认知发展-第五章 注意-第四节 注意的规律在教学中的应用.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第二模块 情感、意志的发展/第一章 情绪、情感.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第二模块 情感、意志的发展/第二章 意志.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第一章 需要、动机、兴趣-第一节 需要.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第一章 需要、动机、兴趣-第二节 动机.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第一章 需要、动机、兴趣-第三节 兴趣.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第二章 能力-第一节 能力的基本概念.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第二章 能力-第二节 能力与教育.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第三章 气质-第一节 气质的基本概念.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第四章 性格-第一节 性格的形成.md" />
+        <option value="$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第四章 性格-第二节 性格与教育.md" />
       </list>
     </option>
   </component>
@@ -100,8 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,16 +124,12 @@
               <item name="教师招聘考试" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="华图周末班-教育公共基础" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="教师招聘考试" type="b2602c69:ProjectViewProjectNode" />
-              <item name="教师招聘考试" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="华图周末班-教育公共基础" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="学生心理" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,7 +138,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\github\考试相关\1-考试相关\shiyedanwei2\教师招聘考试\华图周末班-教育公共基础\教育心理学" />
       <recent name="F:\github\shiyedanwei2\教师招聘考试\华图周末班-教育公共基础\学生心理" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\github\考试相关\1-考试相关\shiyedanwei2\教师招聘考试\华图周末班-教育公共基础\普通心理学\第三模块 人格发展" />
+      <recent name="F:\github\考试相关\1-考试相关\shiyedanwei2\教师招聘考试\华图周末班-教育公共基础\普通心理学\第二模块 情感、意志的发展" />
+      <recent name="F:\github\考试相关\1-考试相关\shiyedanwei2\教师招聘考试\华图周末班-教育公共基础\普通心理学\认知发展" />
+      <recent name="F:\github\考试相关\1-考试相关\shiyedanwei2\教师招聘考试\华图周末班-教育公共基础\教师心理" />
+      <recent name="F:\github\考试相关\1-考试相关\shiyedanwei2\教师招聘考试\华图周末班-教育公共基础\教学心理" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -163,22 +177,22 @@
       <workItem from="1515124820648" duration="2388000" />
       <workItem from="1515159026805" duration="4220000" />
       <workItem from="1515378403305" duration="170000" />
-      <workItem from="1515378662959" duration="2267000" />
+      <workItem from="1515378662959" duration="3602000" />
+      <workItem from="1515391918974" duration="2853000" />
+      <workItem from="1515396981123" duration="957000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9045000" />
+    <option name="totallyTimeSpent" value="14190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3224249" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33208156" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -191,28 +205,9 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3224249" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -225,42 +220,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第七章 技能的学习-第一节 技能的一般概述 .md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第二章 学习与学习理论-第三节 认知学习理论 .md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/1.教育心理学-学习心理-第二章 学习与学习理论-第一节 学习的概述 .md" />
-    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-绪 论 .md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="207">
-            <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/1.教育心理学-学习心理-第二章 学习与学习理论-第二节 联结学习理论 .md" />
     <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/1.教育心理学-学习心理-第二章 学习与学习理论-第三节 认知学习理论 .md" />
-    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第二章 学习与学习理论-第二节 联结学习理论 .md">
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/学生心理/1.教育心理学-学生心理-第二章 学习与学习理论-第二节 联结学习理论 .md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-5091">
@@ -270,7 +232,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第二章 学习与学习理论-第五节 人本学习理论 .md">
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/学生心理/1.教育心理学-学生心理-第二章 学习与学习理论-第五节 人本学习理论 .md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="96">
@@ -280,7 +242,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第二章 学习与学习理论-第四节 建构学习理论 .md">
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/学生心理/1.教育心理学-学生心理-第二章 学习与学习理论-第四节 建构学习理论 .md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="545">
@@ -290,77 +252,486 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第二章 学习与学习理论-第三节 认知学习理论 .md">
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/学生心理/1.教育心理学-学生心理-第二章 学习与学习理论-第三节 认知学习理论 .md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="493">
             <caret line="97" column="13" lean-forward="true" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/变式 .md">
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/学生心理/变式 .md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第七章 技能的学习-第一节 技能的一般概述 .md">
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/学生心理/1.教育心理学-学生心理-第七章 技能的学习-第一节 技能的一般概述 .md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1189">
             <caret line="41" column="4" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第七章 技能的学习-第二节 心智技能的学习 .md">
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/教学心理/教学心理-第十章 教学设计-第一节 设置教学目标.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-551">
+          <first_editor relative-caret-position="174">
+            <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/教学心理/教学心理-第十章 教学设计-第二节 组织教学过程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="261">
+            <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/教学心理/教学心理-第十章 教学设计-第三节 选择教学策略.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="192">
+            <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/教学心理/教学心理-第十一章 课堂管理-第一节 课堂管理概述.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="203">
+            <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/教学心理/教学心理-第十一章 课堂管理-第二节 课堂群体的管理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="174">
+            <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/教学心理/教学心理-第十一章 课堂管理-第三节 课堂纪律的管理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="203">
+            <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/教师心理/教师心理-第十二章 教师心理-第一节 教师的心理特征与职业成就的关系.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="290">
+            <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/教师心理/教师心理-第十二章 教师心理-第二节 专家型教师与新教师的比较.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="348">
+            <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/教师心理/教师心理-第十二章 教师心理-第三节 教师的成长与发展.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="47">
+            <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/教师心理/教师心理-第十四章 心理健康教育-第一节 心理健康概述.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="319">
+            <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/教师心理/教师心理-第十四章 心理健康教育-第二节 心理辅导.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="105">
+            <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/学生心理/1.教育心理学-学生心理-第七章 技能的学习-第二节 心智技能的学习 .md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
             <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第七章 技能的学习-第三节 操作技能的学习 .md">
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/学生心理/1.教育心理学-学生心理-第七章 技能的学习-第三节 操作技能的学习 .md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="482">
+          <first_editor relative-caret-position="453">
             <caret line="141" column="27" lean-forward="true" selection-start-line="141" selection-start-column="27" selection-end-line="141" selection-end-column="27" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第八章 问题解决与创造力-第二节 创造力及其培养 .md">
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/学生心理/1.教育心理学-学生心理-第八章 问题解决与创造力-第二节 创造力及其培养 .md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-1345">
-            <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <first_editor relative-caret-position="598">
+            <caret line="97" column="4" lean-forward="true" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/学生心理/1.教育心理学-学生心理-第八章 问题解决与创造力-第一节 问题解决 .md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="598">
+            <caret line="111" column="12" lean-forward="true" selection-start-line="111" selection-start-column="12" selection-end-line="111" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/学生心理/1.教育心理学-学生心理-第九章 态度与品德的形成-第一节 态度与品德的实质及其关系 .md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="203">
+            <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/学生心理/1.教育心理学-学生心理-第八章 问题解决与创造力-第一节 问题解决 .md">
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/学生心理/1.教育心理学-学生心理-第九章 态度与品德的形成-第四节 良好态度与品德的培养 .md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="58">
+            <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/学生心理/1.教育心理学-学生心理-第九章 态度与品德的形成-第二节 学生品德发展的基本特征 .md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="221">
+            <caret line="90" column="37" lean-forward="false" selection-start-line="90" selection-start-column="37" selection-end-line="90" selection-end-column="37" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/教育心理学/学生心理/1.教育心理学-学生心理-第九章 态度与品德的形成-第三节 态度与品德学习的一般过程与条件 .md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="76">
+            <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/《教育心理学 》《教育学 》《心理学 》口诀.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="424">
+            <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/绪 论.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="366">
+            <caret line="144" column="25" lean-forward="true" selection-start-line="144" selection-start-column="25" selection-end-line="144" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第一模块 认知发展/认知发展-第一章 感知觉-第一节 感觉.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="163">
+            <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第一模块 认知发展/认知发展-第一章 感知觉-第二节 知觉.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="192">
+            <caret line="64" column="16" lean-forward="true" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第一模块 认知发展/认知发展-第一章 感知觉-第三节 感知觉在教学中的应用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="134">
+            <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第一模块 认知发展/认知发展-第二章 记忆-第一节 记忆的种类.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="290">
+            <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第一模块 认知发展/认知发展-第二章 记忆-第二节 记忆的过程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="279">
-            <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <caret line="69" column="38" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第一模块 认知发展/认知发展-第二章 记忆-第三节 记忆规律在教学中的应用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="134">
+            <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第一模块 认知发展/认知发展-第三章 表象、想象-第一节 想象的基本概念.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="221">
+            <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第一模块 认知发展/认知发展-第四章 思维-第一节 思维概述.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="279">
+            <caret line="79" column="18" lean-forward="true" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第一模块 认知发展/认知发展-第五章 注意-第一节 注意的基本概念.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="772">
+            <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第一模块 认知发展/认知发展-第五章 注意-第二节 注意的种类与规律.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="308">
+            <caret line="62" column="28" lean-forward="true" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第一模块 认知发展/认知发展-第五章 注意-第四节 注意的规律在教学中的应用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="337">
+            <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第一模块 认知发展/认知发展-第五章 注意-第三节 注意的品质.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="308">
+            <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第二模块 情感、意志的发展/第二章 意志.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="221">
+            <caret line="45" column="2" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第二模块 情感、意志的发展/第一章 情绪、情感.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="337">
+            <caret line="75" column="14" lean-forward="false" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第一章 需要、动机、兴趣-第一节 需要.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="279">
+            <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第一章 需要、动机、兴趣-第二节 动机.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="482">
+            <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第一章 需要、动机、兴趣-第三节 兴趣.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="377">
+            <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第二章 能力-第一节 能力的基本概念.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="87">
+            <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第二章 能力-第二节 能力与教育.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="174">
+            <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第三章 气质-第一节 气质的基本概念.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="134">
+            <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第四章 性格-第一节 性格的形成.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="192">
+            <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华图周末班-教育公共基础/普通心理学/第三模块 人格发展/第四章 性格-第二节 性格与教育.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="232">
+            <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />
