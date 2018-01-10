@@ -38,11 +38,21 @@ z：真题
 ### 教师招聘 :
     保证6个小时
     决定看华图的讲义！
+    第三章  教育学\第三章 教育与个人的发展\第一节 个人身心发展概述.md
     
-    第二模块 情感、意志的发展 第一节开始
     第四部分 教师职业道德
     第五部分 教育法律法规 
     
+    看教学设计
+    先看完经济！！！
+    
+    人物总结：
+    https://wenku.baidu.com/view/857acdd3312b3169a551a43c.html
+    https://wenku.baidu.com/view/69209f5e804d2b160b4ec00c.html?mark_pay_doc=0&mark_rec_page=1&mark_rec_position=3&clear_uda_param=1
+    
+    https://wenku.baidu.com/view/cd1b04f852d380eb63946d5e.html
+    
+    https://wenku.baidu.com/view/8c969a04f02d2af90242a8956bec0975f465a422.html
 
 华图专项：http://cq.huatu.com/zt/syztxz/ 好多题目这里
 中公微信: 每日一练，历年真题
