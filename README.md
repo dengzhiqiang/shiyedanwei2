@@ -75,3 +75,9 @@ z：真题
             dengzhiqiangkj@126.com   dengzhiqiang123   
         mobile/admin/
             admin admin123
+
+### 同呈网校
+    http://wx.cqtczx.com/fine
+    http://wx.cqtczx.com/us/UserCenter/chapterlist.aspx?cid=771&zid=933     
+    dengtcjy2311600690  
+    deng024481377072       
