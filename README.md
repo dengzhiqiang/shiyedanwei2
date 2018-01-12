@@ -44,6 +44,7 @@ z：真题
     第五部分 教育法律法规 
     
     看教学设计
+    事业单位条例
     
     人物总结：
     https://wenku.baidu.com/view/857acdd3312b3169a551a43c.html
